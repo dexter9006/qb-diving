@@ -286,7 +286,7 @@ Config.BonusTiers = {
 }
 Config.SellLocations = {
     [1] = {
-        coords = vector4(-1684.13, -1068.91, 13.15, 100.0),
+        coords = vector4(-1684.13, -1068.91, 13.15, 46.28),
         model = 'a_m_m_salton_01',
         zoneOptions = { -- Only used when not using the target
             length = 3,
